@@ -20,3 +20,8 @@ index.html: Main HTML file for the game.
 style.css: CSS file for styling the game interface.
 script.js: JavaScript file containing the game logic.
 README.md: Instructions and information about the project.
+Screenshots
+
+Live Demo
+You can play the game live here.
+https://legendary-nasturtium-bfd35c.netlify.app/
